@@ -12,7 +12,7 @@
     "crud",
     "mongodb"
   ],
-  "author": "akshay kashyap",
+  "author": "Subhrajit saha",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
